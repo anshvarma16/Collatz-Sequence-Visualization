@@ -17,7 +17,7 @@ This is a Python program that allows users to visualize the Collatz sequence for
 1. Clone the repository to your local machine.
 2. Ensure you have Python installed.
 3. Install the required dependencies by running `pip install -r requirements.txt`.
-4. Run the program using `python collatz_sequence_visualization.py`.
+4. Run the program using `python simulation.py`.
 5. Enter a positive integer in the input field and press Enter or click Submit.
 6. Watch the Collatz sequence visualization in real-time.
 
