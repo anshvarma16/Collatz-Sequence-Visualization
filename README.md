@@ -25,3 +25,4 @@ This is a Python program that allows users to visualize the Collatz sequence for
 
 - Python 3.x
 - Matplotlib
+- NumPy
